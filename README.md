@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Federico aka. @fepaglia, live in BsAs Argentina. Im learning web design, with multiple technologies, like: HTML, CSS, JavasCrip, React and more... Stay tuned  to see my progress and content! 
 - 👀 I’m interested in programming, music and cinema.
 - 🌱 I’m currently learning Full Stack development, in Coderhouse academy, starting to create responsive web sites for mobile and desktop.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 💞️ I’m looking to collaborate with everyone
+- 📫 How to reach me:
+- linkedin: https://www.linkedin.com/in/federico-ernesto-paglia-463a5b23a/
+- twitter: @fepaglia
+- email: federicoepaglia@gmail.com
 
 <!---
 fepaglia/fepaglia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
